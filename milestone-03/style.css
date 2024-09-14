@@ -1,0 +1,32 @@
+#resume-form{
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%; 
+    background-color: rgba(240, 115, 13, 0.452);
+   color:rgb(126, 41, 7); 
+   border: 2px solid rgba(247, 74, 22, 0.452);
+   
+}
+button{
+    background-color: rgba(247, 74, 22, 0.452);
+    color: white;
+
+    border: 2px solid rgba(247, 74, 22, 0.452);
+}
+
+ button:hover{
+    background-color: black;
+    
+}
+    
+
+    #resume-display {
+        text-align: left;
+        margin-right: 30%;
+        margin-left: 30%; 
+        background-color: rgba(240, 115, 13, 0.452);
+        color:rgb(126, 41, 7); 
+        border: 2px solid rgba(247, 74, 22, 0.452);
+      
+       
+    }
