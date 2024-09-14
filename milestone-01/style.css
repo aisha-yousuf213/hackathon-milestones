@@ -1,0 +1,52 @@
+.container{
+    text-align: center;
+    color: rgb(13, 73, 73);
+    background-color: rgb(195,249,249) ;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 1%;
+    /* border :  30px solid  rgb(188,242,242); */
+}
+
+h1{
+    font-size: 120px;
+    
+    background-color: rgb(195, 249, 249);
+    text-align: center;
+   
+   
+}
+
+
+
+.profile{
+      
+       border-radius: 50%;
+}
+
+.right-side{
+    text-align: center;
+    color: rgb(13, 73, 73);
+    background-color: rgb(195,249,249) ;
+    margin-left: 25%;
+    margin-right: 25%;
+    border :  30px solid  rgb(188,242,242);
+}
+p{
+     font-size: 50px;
+     text-align:left;
+}
+li{
+    text-align: left;
+    font-size: 60px;
+}
+h3{
+    font-size: 100px;
+}
+
+button{
+    font-size: 70px;
+}
+button:hover{
+    background-color: rgb(153, 154, 231);
+}
